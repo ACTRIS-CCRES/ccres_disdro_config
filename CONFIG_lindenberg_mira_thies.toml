@@ -21,7 +21,7 @@ RAIN_GAUGE_SAMPLING = 0.2 # mm ; fill with the real value
 DD_ORIENTATION = 0 # degree, from North ; fill with the real value
 
 [plot_parameters]
-DCR_PLOTTED_RANGES = [50, 150, 300] ; fill with the good values
+DCR_PLOTTED_RANGES = [50, 150, 300] # ; fill with the good values
 
 [thresholds]
 MAX_RR = 3  # mm/h
@@ -61,40 +61,3 @@ contributor_role = ""
 cdm_data_type = ""
 metadata_link = ""
 
-
-
-[thresholds]
-PLUVIO_SAMPLING = 0.2
-RRMAX = 3  # mm/h
-MIN_RAINFALL_AMOUNT = 3  # mm/episode
-MAX_MEANWS = 7
-MAX_WS = 10
-MIN_TEMP = 2  # °C
-DELTA_EVENT = 60 # max interval between two tipping of the pluviometer
-DELTA_LENGTH = 180 # min duration
-CHUNK_THICKNESS = 15  # mn
-ACCUMULATION_RELATIVE_ERROR = 0.3  # max relative error in rain accumulation measurement
-FALLSPEED_RELATIVE_ERROR = 0.3  # relative difference between theoretical and disdro fall speed
-
-[nc_meta]
-title = ""
-summary = ""
-id = ""
-naming_authority = ""
-comment = ""
-creator_name = "ACTRIS-CCRES"
-creator_email = "ccres_contact@listes.ipsl.fr"
-creator_url = "https://ccres.aeris-data.fr"
-creator_type = "institution"
-creator_institution = ""
-institution = ""
-project = ""
-publisher_name = ""
-publisher_email = ""
-publisher_url = ""
-publisher_type = ""
-publisher_institution = ""
-contributor_name = ""
-contributor_role = ""
-cdm_data_type = ""
-metadata_link = ""
