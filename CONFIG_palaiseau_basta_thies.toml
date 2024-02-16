@@ -1,8 +1,8 @@
 title = "Configuration for the computation of the dcrcc monitoring (preprocessing and processing)"
 
 [location]
-site = "Palaiseau"
-station = "SIRTA" # useful for plots
+SITE = "Palaiseau"
+STATION = "SIRTA" # useful for plots
 
 [methods]
 FALL_SPEED_METHOD = "GunAndKinzer"
