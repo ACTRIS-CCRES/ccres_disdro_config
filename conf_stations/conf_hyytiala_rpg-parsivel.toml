@@ -1,4 +1,4 @@
-title = "Configuration for the computation of the dcrcc monitoring (preprocessing and processing)"
+title = "Configuration for the computation of the dcrcc monitoring (preprocessing and processing) at Hyytiälä"
 
 [location]
 SITE = "Hyytiälä"
@@ -15,7 +15,7 @@ MAX_ALTITUDE_RADAR_DATA = 2500
 [instrument_parameters]
 DD_SAMPLING_AREA = 0.0054 # m^2 ; Parsivel2 sampling surface
 DCR_DZ_RANGE = 150 # m ; height at which to compute Delta Z ; fill with the real value
-RAIN_GAUGE_SAMPLING = 0 # mm ; fill with the real value
+RAIN_GAUGE_SAMPLING = 0 # mm ; no AMS yet, fill with the real value when available
 DD_ORIENTATION = 0 # degree, from North ; fill with the real value
 
 [plot_parameters]

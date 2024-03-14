@@ -1,4 +1,4 @@
-title = "Configuration for the computation of the dcrcc monitoring (preprocessing and processing)"
+title = "Configuration for the computation of the dcrcc monitoring (preprocessing and processing) at Jülich"
 
 [location]
 SITE = "Jülich"
