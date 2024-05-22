@@ -32,14 +32,14 @@
                 "weather_data_availability": false,
                 "weather_type": null,
                 "weather_pid": null,
-                "conf_file": "conf_bucharest_rpg-parsivel.toml",
+                "conf_file": "conf_bucharest_rpg94-parsivel.toml",
                 "output": {
                     "preprocessing": {
-                        "netcdf": "bucharest_rpg-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                        "netcdf": "bucharest_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
                     },
                     "preprocessing_ql": {
-                        "weather-overview": "bucharest_rpg-parsivel_weather-overview_%Y%m%d_000000.png",
-                        "zh-overview": "bucharest_rpg-parsivel_zh-overview_%Y%m%d_000000.png"
+                        "weather-overview": "bucharest_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "bucharest_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -58,14 +58,14 @@
                 "weather_data_availability": false,
                 "weather_type": null,
                 "weather_pid": "https://hdl.handle.net/21.12132/3.140918e899a647f3",
-                "conf_file": "conf_granada_rpg-parsivel.toml",
+                "conf_file": "conf_granada_rpg94-parsivel.toml",
                 "output": {
                     "preprocessing": {
-                        "netcdf": "granada_rpg-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                        "netcdf": "granada_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
                     },
                     "preprocessing_ql": {
-                        "weather-overview": "granada_rpg-parsivel_weather-overview_%Y%m%d_000000.png",
-                        "zh-overview": "granada_rpg-parsivel_zh-overview_%Y%m%d_000000.png"
+                        "weather-overview": "granada_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "granada_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -84,14 +84,14 @@
                 "weather_data_availability": false,
                 "weather_type": null,
                 "weather_pid": null,
-                "conf_file": "conf_hyytiala_rpg-parsivel.toml",
+                "conf_file": "conf_hyytiala_rpg94-parsivel.toml",
                 "output": {
                     "preprocessing": {
-                        "netcdf": "hyytiala_rpg-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                        "netcdf": "hyytiala_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
                     },
                     "preprocessing_ql": {
-                        "weather-overview": "hyytiala_rpg-parsivel_weather-overview_%Y%m%d_000000.png",
-                        "zh-overview": "hyytiala_rpg-parsivel_zh-overview_%Y%m%d_000000.png"
+                        "weather-overview": "hyytiala_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "hyytiala_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -176,14 +176,14 @@
                 "weather_data_availability": true,
                 "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.ffb25f43330f4793",
-                "conf_file": "conf_lindenberg_rpg-parsivel.toml",
+                "conf_file": "conf_lindenberg_rpg94-parsivel.toml",
                 "output": {
                     "preprocessing": {
-                        "netcdf": "lindenberg_rpg-parsivel-ws_dd-preproc_%Y%m%d_000000.nc"
+                        "netcdf": "lindenberg_rpg94-parsivel-ws_dd-preproc_%Y%m%d_000000.nc"
                     },
                     "preprocessing_ql": {
-                        "weather-overview": "lindenberg_rpg-parsivel-ws_weather-overview_%Y%m%d_000000.png",
-                        "zh-overview": "lindenberg_rpg-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                        "weather-overview": "lindenberg_rpg94-parsivel-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "lindenberg_rpg94-parsivel-ws_zh-overview_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -199,11 +199,11 @@
                 "conf_file": "conf_lindenberg_mira-parsivel.toml",
                 "output": {
                     "preprocessing": {
-                        "netcdf": "lindenberg_rpg-thies-ws_dd-preproc_%Y%m%d_000000.nc"
+                        "netcdf": "lindenberg_rpg94-thies-ws_dd-preproc_%Y%m%d_000000.nc"
                     },
                     "preprocessing_ql": {
-                        "weather-overview": "lindenberg_rpg-thies-ws_weather-overview_%Y%m%d_000000.png",
-                        "zh-overview": "lindenberg_rpg-thies-ws_zh-overview_%Y%m%d_000000.png"
+                        "weather-overview": "lindenberg_rpg94-thies-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "lindenberg_rpg94-thies-ws_zh-overview_%Y%m%d_000000.png"
                     }
                 }
             }
