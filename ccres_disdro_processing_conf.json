@@ -46,6 +46,32 @@
         ]
     },
     {
+        "site": "galati",
+        "station_name": "RADO-galati",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "rpg-fmcw-94",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.71dad3ea36ab476a",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.070929c5502747f6",
+                "weather_data_availability": false,
+                "weather_type": null,
+                "weather_pid": "https://hdl.handle.net/21.12132/3.8ca6674ead024d5f",
+                "conf_file": "conf_galati_rpg94-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "galati_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "galati_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "galati_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    }
+                }
+            }
+        ]
+    },
+    {
         "site": "granada",
         "station_name": "AGORA",
         "conf": [
