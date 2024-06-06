@@ -20,6 +20,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "bucharest_mira-parsivel_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "bucharest_mira-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "bucharest_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "bucharest_mira-parsivel_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "bucharest_mira-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             },
@@ -40,6 +47,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "bucharest_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "bucharest_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "bucharest_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "bucharest_rpg94-parsivel_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "bucharest_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
@@ -66,6 +80,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "galati_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "galati_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "galati_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "galati_rpg94-parsivel_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "galati_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
@@ -92,6 +113,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "granada_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "granada_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "granada_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "granada_rpg94-parsivel_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "granada_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
@@ -118,6 +146,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "hyytiala_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "hyytiala_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "hyytiala_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "hyytiala_rpg94-parsivel_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "hyytiala_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
@@ -144,6 +179,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "juelich_mira-parsivel-ws_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "juelich_mira-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "juelich_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "juelich_mira-parsivel_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "juelich_mira-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
@@ -170,6 +212,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "lindenberg_mira-parsivel-ws_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "lindenberg_mira-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "lindenberg_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "lindenberg_mira-parsivel_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "lindenberg_mira-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             },
@@ -190,6 +239,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "lindenberg_mira-thies-ws_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "lindenberg_mira-thies-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "lindenberg_mira-thies-ws_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "lindenberg_mira-thies-ws_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "lindenberg_mira-thies-ws_proc-detailled_%Y%m%d_000000"
                     }
                 }
             },
@@ -210,6 +266,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "lindenberg_rpg94-parsivel-ws_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "lindenberg_rpg94-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "lindenberg_rpg94-parsivel-ws_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "lindenberg_rpg94-parsivel-ws_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "lindenberg_rpg94-parsivel-ws_proc-detailled_%Y%m%d_000000"
                     }
                 }
             },
@@ -230,6 +293,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "lindenberg_rpg94-thies-ws_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "lindenberg_rpg94-thies-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "lindenberg_rpg94-thies-ws_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "lindenberg_rpg94-thies-ws_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "lindenberg_rpg94-thies-ws_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
@@ -256,6 +326,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "palaiseau_basta-parsivel-ws_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "palaiseau_basta-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "lindenberg_rpg94-thies-ws_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "lindenberg_rpg94-thies-ws_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "lindenberg_rpg94-thies-ws_proc-detailled_%Y%m%d_000000"
                     }
                 }
             },
@@ -276,6 +353,13 @@
                     "preprocessing_ql": {
                         "weather-overview": "palaiseau_basta-thies-ws_weather-overview_%Y%m%d_000000.png",
                         "zh-overview": "palaiseau_basta-thies-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "palaiseau_basta-thies_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "weather-overview": "palaiseau_basta-thies_proc-summary_%Y%m%d_000000",
+                        "zh-overview": "palaiseau_basta-thies_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
