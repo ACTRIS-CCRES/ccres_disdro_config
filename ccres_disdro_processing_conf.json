@@ -5,7 +5,7 @@
         "conf": [
             {
                 "labelling": true,
-                "radar_type": "mira",
+                "radar_type": "mira-35",
                 "radar_pid": "https://hdl.handle.net/21.12132/3.d98f6fd2bec94e5e",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.a75d4215f338412e",
@@ -191,7 +191,7 @@
         "conf": [
             {
                 "labelling": true,
-                "radar_type": "mira",
+                "radar_type": "mira-35",
                 "radar_pid": "https://hdl.handle.net/21.12132/3.0366fa69504f4bd6",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.2a1ca46ed70c4929",
@@ -224,7 +224,7 @@
         "conf": [
             {
                 "labelling": true,
-                "radar_type": "mira",
+                "radar_type": "mira-35",
                 "radar_pid": "https://hdl.handle.net/21.12132/3.d6cc3d73f9dd4d4b",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.1b0966f63b2d41f2",
@@ -251,7 +251,7 @@
             },
             {
                 "labelling": false,
-                "radar_type": "mira",
+                "radar_type": "mira-35",
                 "radar_pid": "https://hdl.handle.net/21.12132/3.d6cc3d73f9dd4d4b",
                 "disdro_type": "thies-lnm",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.ddeab96e6197478a",
