@@ -219,6 +219,39 @@
         ]
     },
     {
+        "site": "lampedusa",
+        "station_name": "ENEA Station for Climate Observations",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "mira-35",
+                "radar_pid": "    https://hdl.handle.net/21.12132/3.49884fea4fde4ddd",
+                "disdro_type": "thies-lnm",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.4e7765c0c8bd4d1d",
+                "weather_data_availability": false,
+                "weather_type": "weather-station",
+                "weather_pid": "",
+                "conf_file": "conf_lampedusa_mira-thies.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "lampedusa_mira-thies_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "lampedusa_mira-thies_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "lampedusa_mira-thies_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "lampedusa_mira-thies_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "lampedusa_mira-thies_proc-summary_%Y%m%d_000000",
+                        "detailled": "lampedusa_mira-thies_proc-detailled_%Y%m%d_000000"
+                    }
+                }
+            }
+        ]
+    },
+    {
         "site": "lindenberg",
         "station_name": "Richard Assmann Observatory",
         "conf": [
@@ -355,11 +388,11 @@
                         "zh-overview": "palaiseau_basta-parsivel-ws_zh-overview_%Y%m%d_000000.png"
                     },
                     "processing": {
-                        "netcdf": "lindenberg_rpg94-thies-ws_dd-proc_%Y%m%d_000000.nc"
+                        "netcdf": "palaiseau_basta-parsivel-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_rpg94-thies-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_rpg94-thies-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "palaiseau_basta-parsivel-ws_proc-summary_%Y%m%d_000000",
+                        "detailled": "palaiseau_basta-parsivel-ws_proc-detailled_%Y%m%d_000000"
                     }
                 }
             },
