@@ -162,24 +162,24 @@
                 "radar_pid": "https://hdl.handle.net/21.12132/3.191564170f8a4686",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.69dddc0004b64b32",
-                "weather_data_availability": false,
-                "weather_type": null,
-                "weather_pid": null,
+                "weather_data_availability": true,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.80082867c5744f11",
                 "conf_file": "conf_hyytiala_rpg94-parsivel.toml",
                 "output": {
                     "preprocessing": {
-                        "netcdf": "hyytiala_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                        "netcdf": "hyytiala_rpg94-parsivel-ws_dd-preproc_%Y%m%d_000000.nc"
                     },
                     "preprocessing_ql": {
-                        "weather-overview": "hyytiala_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
-                        "zh-overview": "hyytiala_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                        "weather-overview": "hyytiala_rpg94-parsivel-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "hyytiala_rpg94-parsivel-ws_zh-overview_%Y%m%d_000000.png"
                     },
                     "processing": {
-                        "netcdf": "hyytiala_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                        "netcdf": "hyytiala_rpg94-parsivel-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "hyytiala_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "hyytiala_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "hyytiala_rpg94-parsivel-ws_proc-summary_%Y%m%d_000000",
+                        "detailled": "hyytiala_rpg94-parsivel-ws_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
