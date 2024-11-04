@@ -162,9 +162,9 @@
                 "radar_pid": "https://hdl.handle.net/21.12132/3.191564170f8a4686",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.69dddc0004b64b32",
-                "weather_data_availability": false,
-                "weather_type": null,
-                "weather_pid": null,
+                "weather_data_availability": true,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.80082867c5744f11",
                 "conf_file": "conf_hyytiala_rpg94-parsivel.toml",
                 "output": {
                     "preprocessing": {
