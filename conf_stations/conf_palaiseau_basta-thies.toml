@@ -37,6 +37,7 @@ MIN_DURATION = 180 # mn ; min duration of an event
 PR_SAMPLING = 15  # mn ; ex CHUNK_THICKNESS ; period of averaging for AMS pr
 DD_RG_MAX_PR_ACC_RATIO = 0.3 # ex ACCUMULATION_RELATIVE_ERROR ; max relative error in rain accumulation measurement, DD vs Rain gauge
 DD_FALLSPEED_RATIO = 0.3 # ex FALLSPEED_RELATIVE_ERROR ; relative difference between "theoretical" and DD fall speed
+MIN_POINTS = 50
 
 [nc_meta]
 title = ""
