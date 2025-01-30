@@ -11,7 +11,7 @@
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.a75d4215f338412e",
                 "weather_data_availability": false,
                 "weather_type": null,
-                "weather_pid": null,
+                "weather_pid": "https://hdl.handle.net/21.12132/3.930d8f295fa24ae5",
                 "conf_file": "conf_bucharest_mira-parsivel.toml",
                 "output": {
                     "preprocessing": {
@@ -38,7 +38,7 @@
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.a75d4215f338412e",
                 "weather_data_availability": false,
                 "weather_type": null,
-                "weather_pid": null,
+                "weather_pid": "https://hdl.handle.net/21.12132/3.930d8f295fa24ae5",
                 "conf_file": "conf_bucharest_rpg94-parsivel.toml",
                 "output": {
                     "preprocessing": {
@@ -246,6 +246,39 @@
                     "processing_ql": {
                         "summary": "lampedusa_mira-thies_proc-summary_%Y%m%d_000000",
                         "detailled": "lampedusa_mira-thies_proc-detailled_%Y%m%d_000000"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "site": "leipzig",
+        "station_name": "LACROS",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "rpg-fmcw-94",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.fa39ba9928544aae",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.922bd0a8c7f34064",
+                "weather_data_availability": false,
+                "weather_type": null,
+                "weather_pid": "",
+                "conf_file": "conf_leipzig_rpg94-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "leipzig_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "leipzig_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "leipzig_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "leipzig_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "leipzig_rpg94-parsivel_proc-summary_%Y%m%d_000000",
+                        "detailled": "leipzig_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
             }
