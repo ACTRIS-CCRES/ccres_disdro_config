@@ -636,7 +636,7 @@
                 "weather_data_availability": true,
                 "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.e1993aa2cf4040b9",
-                "conf_file": "conf_payerne_mira-parsivel.toml",
+                "conf_file": "conf_payerne_rpg94-thies.toml",
                 "output": {
                     "preprocessing": {
                         "netcdf": "payerne_rpg94-thies-ws_dd-preproc_%Y%m%d_000000.nc"
