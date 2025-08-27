@@ -294,9 +294,9 @@
                 "radar_pid": "https://hdl.handle.net/21.12132/3.49884fea4fde4ddd",
                 "disdro_type": "thies-lnm",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.4e7765c0c8bd4d1d",
-                "weather_data_availability": false,
+                "weather_data_availability": true,
                 "weather_type": "weather-station",
-                "weather_pid": "",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.5881321c3c4948ca",
                 "conf_file": "conf_lampedusa_mira-thies.toml",
                 "output": {
                     "preprocessing": {
@@ -589,7 +589,7 @@
                 }
             }
         ]
-    }
+    },
     {
         "site": "payerne",
         "station_name": "Payerne",
