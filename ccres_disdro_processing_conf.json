@@ -351,6 +351,39 @@
         ]
     },
     {
+        "site": "limassol",
+        "station_name": "CARO",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "mira-35",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.9af43f93e39649f5",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.41582c4957f444b3",
+                "weather_data_availability": false,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.ef692a4fb6fc4c8f",
+                "conf_file": "conf_limassol_mira-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "limassol_mira-parsivel-ws_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "limassol_mira-parsivel-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "limassol_mira-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "limassol_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "limassol_mira-parsivel_proc-summary_%Y%m%d_000000",
+                        "detailled": "limassol_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                    }
+                }
+            }
+        ]
+    },
+    {
         "site": "lindenberg",
         "station_name": "Richard Assmann Observatory",
         "conf": [
