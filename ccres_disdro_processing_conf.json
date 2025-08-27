@@ -25,8 +25,8 @@
                         "netcdf": "bucharest_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "bucharest_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "bucharest_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "bucharest_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "bucharest_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -52,8 +52,8 @@
                         "netcdf": "bucharest_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "bucharest_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "bucharest_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "bucharest_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "bucharest_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -85,8 +85,8 @@
                         "netcdf": "cabauw_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "cabauw_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "cabauw_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "cabauw_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "cabauw_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -118,8 +118,8 @@
                         "netcdf": "cluj_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "cluj_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "cluj_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "cluj_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "cluj_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -151,8 +151,8 @@
                         "netcdf": "galati_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "galati_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "galati_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "galati_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "galati_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -184,8 +184,8 @@
                         "netcdf": "granada_rpg94-b19-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "granada_rpg94-b19-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "granada_rpg94-b19-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "granada_rpg94-b19-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "granada_rpg94-b19-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -211,8 +211,8 @@
                         "netcdf": "granada_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "granada_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "granada_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "granada_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "granada_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -244,8 +244,8 @@
                         "netcdf": "hyytiala_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "hyytiala_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "hyytiala_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "hyytiala_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "hyytiala_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -277,8 +277,8 @@
                         "netcdf": "juelich_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "juelich_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "juelich_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "juelich_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "juelich_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -310,8 +310,8 @@
                         "netcdf": "lampedusa_mira-thies_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lampedusa_mira-thies_proc-summary_%Y%m%d_000000",
-                        "detailled": "lampedusa_mira-thies_proc-detailled_%Y%m%d_000000"
+                        "summary": "lampedusa_mira-thies_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lampedusa_mira-thies_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -343,8 +343,8 @@
                         "netcdf": "leipzig_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "leipzig_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "leipzig_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "leipzig_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "leipzig_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -376,8 +376,8 @@
                         "netcdf": "limassol_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "limassol_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "limassol_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "limassol_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "limassol_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -409,8 +409,8 @@
                         "netcdf": "lindenberg_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -436,8 +436,8 @@
                         "netcdf": "lindenberg_mira-thies-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_mira-thies-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_mira-thies-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_mira-thies-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_mira-thies-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -463,8 +463,8 @@
                         "netcdf": "lindenberg_rpg94-parsivel-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_rpg94-parsivel-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_rpg94-parsivel-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_rpg94-parsivel-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_rpg94-parsivel-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -490,8 +490,8 @@
                         "netcdf": "lindenberg_rpg94-thies-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_rpg94-thies-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_rpg94-thies-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_rpg94-thies-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_rpg94-thies-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -523,8 +523,8 @@
                         "netcdf": "mindelo_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "mindelo_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "mindelo_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "mindelo_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "mindelo_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -556,8 +556,8 @@
                         "netcdf": "munich_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "munich_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "munich_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "munich_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "munich_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -589,8 +589,8 @@
                         "netcdf": "palaiseau_basta-parsivel-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "palaiseau_basta-parsivel-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "palaiseau_basta-parsivel-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "palaiseau_basta-parsivel-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "palaiseau_basta-parsivel-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -616,8 +616,8 @@
                         "netcdf": "palaiseau_basta-thies_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "palaiseau_basta-thies_proc-summary_%Y%m%d_000000",
-                        "detailled": "palaiseau_basta-thies_proc-detailled_%Y%m%d_000000"
+                        "summary": "palaiseau_basta-thies_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "palaiseau_basta-thies_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -649,8 +649,8 @@
                         "netcdf": "payerne_rpg94-thies-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "payerne_rpg94-thies-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "payerne_rpg94-thies-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "payerne_rpg94-thies-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "payerne_rpg94-thies-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
