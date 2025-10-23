@@ -25,8 +25,8 @@
                         "netcdf": "bucharest_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "bucharest_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "bucharest_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "bucharest_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "bucharest_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -52,8 +52,74 @@
                         "netcdf": "bucharest_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "bucharest_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "bucharest_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "bucharest_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "bucharest_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "site": "cabauw",
+        "station_name": "Ruisdael Observatory",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "rpg-fmcw-94",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.4c28f7a6b7fc4d15",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.c55b141f99424547",
+                "weather_data_availability": false,
+                "weather_type": null,
+                "weather_pid": "https://hdl.handle.net/21.12132/3.46797fd6140c4249",
+                "conf_file": "conf_cabauw_rpg94-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "cabauw_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "cabauw_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "cabauw_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "cabauw_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "cabauw_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "cabauw_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "site": "cluj",
+        "station_name": "RADO-cluj",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "rpg-fmcw-94",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.0b458d3945e146cc",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.5a6e24d0ff9042b1",
+                "weather_data_availability": false,
+                "weather_type": null,
+                "weather_pid": "https://hdl.handle.net/21.12132/3.7fd1b2d0d767419f",
+                "conf_file": "conf_cluj_rpg94-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "cluj_rpg94-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "cluj_rpg94-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "cluj_rpg94-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "cluj_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "cluj_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "cluj_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -85,8 +151,8 @@
                         "netcdf": "galati_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "galati_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "galati_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "galati_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "galati_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -118,8 +184,8 @@
                         "netcdf": "granada_rpg94-b19-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "granada_rpg94-b19-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "granada_rpg94-b19-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "granada_rpg94-b19-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "granada_rpg94-b19-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -145,8 +211,8 @@
                         "netcdf": "granada_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "granada_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "granada_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "granada_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "granada_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -178,8 +244,8 @@
                         "netcdf": "hyytiala_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "hyytiala_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "hyytiala_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "hyytiala_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "hyytiala_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -211,8 +277,8 @@
                         "netcdf": "juelich_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "juelich_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "juelich_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "juelich_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "juelich_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -228,9 +294,9 @@
                 "radar_pid": "https://hdl.handle.net/21.12132/3.49884fea4fde4ddd",
                 "disdro_type": "thies-lnm",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.4e7765c0c8bd4d1d",
-                "weather_data_availability": false,
+                "weather_data_availability": true,
                 "weather_type": "weather-station",
-                "weather_pid": "",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.5881321c3c4948ca",
                 "conf_file": "conf_lampedusa_mira-thies.toml",
                 "output": {
                     "preprocessing": {
@@ -244,8 +310,8 @@
                         "netcdf": "lampedusa_mira-thies_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lampedusa_mira-thies_proc-summary_%Y%m%d_000000",
-                        "detailled": "lampedusa_mira-thies_proc-detailled_%Y%m%d_000000"
+                        "summary": "lampedusa_mira-thies_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lampedusa_mira-thies_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -277,8 +343,41 @@
                         "netcdf": "leipzig_rpg94-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "leipzig_rpg94-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "leipzig_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "leipzig_rpg94-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "leipzig_rpg94-parsivel_proc-detailled_%Y%m%d_000000.png"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "site": "limassol",
+        "station_name": "CARO",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "mira-35",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.9af43f93e39649f5",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.41582c4957f444b3",
+                "weather_data_availability": false,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.ef692a4fb6fc4c8f",
+                "conf_file": "conf_limassol_mira-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "limassol_mira-parsivel-ws_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "limassol_mira-parsivel-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "limassol_mira-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "limassol_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "limassol_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "limassol_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -310,8 +409,8 @@
                         "netcdf": "lindenberg_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_mira-parsivel_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_mira-parsivel_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -337,8 +436,8 @@
                         "netcdf": "lindenberg_mira-thies-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_mira-thies-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_mira-thies-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_mira-thies-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_mira-thies-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -364,8 +463,8 @@
                         "netcdf": "lindenberg_rpg94-parsivel-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_rpg94-parsivel-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_rpg94-parsivel-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_rpg94-parsivel-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_rpg94-parsivel-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -391,8 +490,74 @@
                         "netcdf": "lindenberg_rpg94-thies-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "lindenberg_rpg94-thies-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "lindenberg_rpg94-thies-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "lindenberg_rpg94-thies-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "lindenberg_rpg94-thies-ws_proc-detailled_%Y%m%d_000000.png"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "site": "mindelo",
+        "station_name": "CVAO",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "mira-35",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.c98b69a5099a4154",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.a5857315ede24789",
+                "weather_data_availability": false,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.6faa7d9a8ae64523",
+                "conf_file": "conf_mindelo_mira-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "mindelo_mira-parsivel-ws_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "mindelo_mira-parsivel-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "mindelo_mira-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "mindelo_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "mindelo_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "mindelo_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "site": "munich",
+        "station_name": "Munich",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "mira-35",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.7c1d258632f94cdd",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.fab6c205243949eb",
+                "weather_data_availability": false,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.fa676e2576644868",
+                "conf_file": "conf_munich_mira-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "munich_mira-parsivel-ws_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "munich_mira-parsivel-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "munich_mira-parsivel-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "munich_mira-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "munich_mira-parsivel_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "munich_mira-parsivel_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
@@ -424,8 +589,8 @@
                         "netcdf": "palaiseau_basta-parsivel-ws_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "palaiseau_basta-parsivel-ws_proc-summary_%Y%m%d_000000",
-                        "detailled": "palaiseau_basta-parsivel-ws_proc-detailled_%Y%m%d_000000"
+                        "summary": "palaiseau_basta-parsivel-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "palaiseau_basta-parsivel-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             },
@@ -451,8 +616,41 @@
                         "netcdf": "palaiseau_basta-thies_dd-proc_%Y%m%d_000000.nc"
                     },
                     "processing_ql": {
-                        "summary": "palaiseau_basta-thies_proc-summary_%Y%m%d_000000",
-                        "detailled": "palaiseau_basta-thies_proc-detailled_%Y%m%d_000000"
+                        "summary": "palaiseau_basta-thies_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "palaiseau_basta-thies_proc-detailled_%Y%m%d_000000.png"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "site": "payerne",
+        "station_name": "Payerne",
+        "conf": [
+            {
+                "labelling": true,
+                "radar_type": "rpg-fmcw-94",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.37a71c75789f47c3",
+                "disdro_type": "thies-lnm",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.b1373817e44e4fa2",
+                "weather_data_availability": true,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.e1993aa2cf4040b9",
+                "conf_file": "conf_payerne_rpg94-thies.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "payerne_rpg94-thies-ws_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "payerne_rpg94-thies-ws_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "payerne_rpg94-thies-ws_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "payerne_rpg94-thies-ws_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "payerne_rpg94-thies-ws_proc-summary_%Y%m%d_000000.png",
+                        "detailled": "payerne_rpg94-thies-ws_proc-detailled_%Y%m%d_000000.png"
                     }
                 }
             }
