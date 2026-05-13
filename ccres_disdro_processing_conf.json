@@ -423,7 +423,7 @@
                 "weather_data_availability": true,
                 "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.ffb25f43330f4793",
-                "conf_file": "conf_lindenberg_mira-parsivel.toml",
+                "conf_file": "conf_lindenberg_mira-thies.toml",
                 "output": {
                     "preprocessing": {
                         "netcdf": "lindenberg_mira-thies-ws_dd-preproc_%Y%m%d_000000.nc"
@@ -477,7 +477,7 @@
                 "weather_data_availability": true,
                 "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.ffb25f43330f4793",
-                "conf_file": "conf_lindenberg_mira-parsivel.toml",
+                "conf_file": "conf_lindenberg_rpg94-thies.toml",
                 "output": {
                     "preprocessing": {
                         "netcdf": "lindenberg_rpg94-thies-ws_dd-preproc_%Y%m%d_000000.nc"
