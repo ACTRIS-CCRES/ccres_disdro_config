@@ -2,7 +2,7 @@ title = "Configuration for the computation of the dcrcc monitoring (preprocessin
 
 [location]
 SITE = "Jülich"
-STATION = "JOYCE" # useful for plots
+STATION = "JOYCE - Jülich" # useful for plots
 
 [methods]
 FALL_SPEED_METHOD = "GunAndKinzer"
