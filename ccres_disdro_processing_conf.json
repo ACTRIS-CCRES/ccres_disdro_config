@@ -10,7 +10,7 @@
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.a75d4215f338412e",
                 "weather_data_availability": false,
-                "weather_type": null,
+                "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.930d8f295fa24ae5",
                 "conf_file": "conf_bucharest_mira-parsivel.toml",
                 "output": {
@@ -37,7 +37,7 @@
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.a75d4215f338412e",
                 "weather_data_availability": false,
-                "weather_type": null,
+                "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.930d8f295fa24ae5",
                 "conf_file": "conf_bucharest_rpg94-parsivel.toml",
                 "output": {
@@ -135,8 +135,8 @@
                 "radar_pid": "https://hdl.handle.net/21.12132/3.71dad3ea36ab476a",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.070929c5502747f6",
-                "weather_data_availability": false,
-                "weather_type": null,
+                "weather_data_availability": true,
+                "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.8ca6674ead024d5f",
                 "conf_file": "conf_galati_rpg94-parsivel.toml",
                 "output": {
@@ -163,13 +163,13 @@
         "station_name": "AGORA",
         "conf": [
             {
-                "labelling": true,
+                "labelling": false,
                 "radar_type": "rpg-fmcw-94",
                 "radar_pid": "https://hdl.handle.net/21.12132/3.1e67e6c234d84b19",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.8f31e16545d14ff3",
-                "weather_data_availability": false,
-                "weather_type": null,
+                "weather_data_availability": true,
+                "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.140918e899a647f3",
                 "conf_file": "conf_granada_rpg94-parsivel.toml",
                 "output": {
@@ -195,8 +195,8 @@
                 "radar_pid": "https://hdl.handle.net/21.12132/3.20570e63f7b1496c",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.8f31e16545d14ff3",
-                "weather_data_availability": false,
-                "weather_type": null,
+                "weather_data_availability": true,
+                "weather_type": "weather-station",
                 "weather_pid": "https://hdl.handle.net/21.12132/3.140918e899a647f3",
                 "conf_file": "conf_granada_rpg94-parsivel.toml",
                 "output": {
@@ -261,9 +261,9 @@
                 "radar_pid": "https://hdl.handle.net/21.12132/3.0366fa69504f4bd6",
                 "disdro_type": "parsivel",
                 "disdro_pid": "https://hdl.handle.net/21.12132/3.2a1ca46ed70c4929",
-                "weather_data_availability": true,
+                "weather_data_availability": false,
                 "weather_type": "weather-station",
-                "weather_pid": "https://hdl.handle.net/21.12132/3.49ca09deca9a4e3e",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.726b3b29de1949cc",
                 "conf_file": "conf_juelich_mira-parsivel.toml",
                 "output": {
                     "preprocessing": {
