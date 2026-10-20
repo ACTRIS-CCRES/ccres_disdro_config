@@ -1,0 +1,11 @@
+[
+    {
+        "name": "basta-ccres",
+        "role": "radar",
+        "type": "basta",
+        "pid": "https://hdl.handle.net/21.12132/3.c682ac7146654de7",
+        "sites": [
+            "palaiseau"
+        ]
+    }
+]
