@@ -215,6 +215,33 @@
                         "detailled": "granada_rpg94-parsivel_proc-detailled_%Y%m%d_000000"
                     }
                 }
+            },
+            {
+                "labelling": false,
+                "radar_type": "rpg-fmcw-35",
+                "radar_pid": "https://hdl.handle.net/21.12132/3.45ee9a92825c447a",
+                "disdro_type": "parsivel",
+                "disdro_pid": "https://hdl.handle.net/21.12132/3.8f31e16545d14ff3",
+                "weather_data_availability": true,
+                "weather_type": "weather-station",
+                "weather_pid": "https://hdl.handle.net/21.12132/3.140918e899a647f3",
+                "conf_file": "conf_granada_rpg35-parsivel.toml",
+                "output": {
+                    "preprocessing": {
+                        "netcdf": "granada_rpg35-parsivel_dd-preproc_%Y%m%d_000000.nc"
+                    },
+                    "preprocessing_ql": {
+                        "weather-overview": "granada_rpg35-parsivel_weather-overview_%Y%m%d_000000.png",
+                        "zh-overview": "granada_rpg35-parsivel_zh-overview_%Y%m%d_000000.png"
+                    },
+                    "processing": {
+                        "netcdf": "granada_rpg35-parsivel_dd-proc_%Y%m%d_000000.nc"
+                    },
+                    "processing_ql": {
+                        "summary": "granada_rpg35-parsivel_proc-summary_%Y%m%d_000000",
+                        "detailled": "granada_rpg35-parsivel_proc-detailled_%Y%m%d_000000"
+                    }
+                }
             }
         ]
     },
